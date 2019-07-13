@@ -22,10 +22,10 @@ namespace Palavras
 
         public static void autenticar()
         {
-            consumerKey = "r6e9NYaE3iEfjkTXLjLZk5Hlv";
-            consumerSecret = "Yfa2qLMEbp89gfS3zt7RUITnG9hZkozcN61eq7Wiq25eGP2R6B";
-            userAccessToken = "755062633884188672-qBZyVuOyMM7KOwbHtLBOhqGZgsoVQ84";
-            userAccessSecret = "cWn8F8xYI9ecmyLqiAy4VMdhjMBi13ZV3A8KeQz3hrCmD";
+            //consumerKey = "YOUR_KEY";
+            //consumerSecret = "YOUR_KEY";
+            //userAccessToken = "YOUR_KEY";
+            //userAccessSecret = "YOUR_KEY";
         }
 
         public static void setUser(string _user) { user = _user; }
